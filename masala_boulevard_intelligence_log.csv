@@ -1,0 +1,94 @@
+id,text,ml_category,advisory_report
+1,"Wholesale prices for imported Guntur red chillies, tamarind, and tomatoes increased by 16% this week due to UK import clearance delays.",Financial Cost Spike,"### 3 Concrete, Operational Actions for Masala Boulevard
+
+| # | Priority | Recommendation | What to Do (Steps) | Owner / Team | Timeline | KPI |
+|---|----------|----------------|--------------------|--------------|----------|-----|
+| 1 | **Cost‑control & Supply‑chain resilience** | **Diversify & hedge the chilli, tamarind & tomato supply** | 1. **Source locally** – identify Greater Manchester growers or UK‑based suppliers (e.g., *Kew Agro* for tomatoes, *AgriGrow* for chilies).  <br>2. **Negotiate volume discounts** – lock in 6‑month contracts with a 2‑3% discount for bulk orders.  <br>3. **Implement a “just‑in‑time” inventory plan** – track usage data (weekly) and reorder when stock falls below the 2‑week safety buffer.  <br>4. **Hedge price volatility** – use a simple forward‑contract or a monthly “price‑cap” with the primary supplier (e.g., £0.35/kg cap on Guntur chillies). | COO & Procurement Manager | 1‑2 weeks to secure new contracts; 1‑month for pricing lock‑in | • 5–10 % drop in per‑unit cost over 12 months <br>• 20 % reduction in price variance |
+| 2 | **Revenue maximisation from demand spike** | **Launch a “Weekend Family Feast” bundle & pre‑order system** | 1. **Product mix** – bundle 3 trays (idli/dosa batter, samosa platters, and a signature curry) into a 4‑person family pack.  <br>2. **Pricing** – 10 % discount vs. ordering items separately to drive volume.  <br>3. **Pre‑order window** – 72 hrs before Saturday/Sunday (via WhatsApp Business, Instagram DM or website).  <br>4. **Dedicated prep team** – assign 2 cooks to weekend packs only, start prep at 5 pm Friday to minimise spoilage.  <br>5. **Promote via local influencers** – partner with 3 Manchester‑based foodie Instagrammers for a 2‑week story series. | Marketing Lead & Kitchen Manager | 2‑4 weeks to launch; ongoing monitoring | • 30 % rise in weekend revenue <br>• 15 % increase in average order size |
+| 3 | **Compliance & safety** | **Digital temperature logs + allergen‑labelling workflow** | 1. **Choose a compliant platform** – e.g., *iFoodSafe* or *SafeFoodPro* that records hot‑holding temperatures and auto‑generates batch‑level allergen statements.  <br>2. **Staff training** – 1‑hour on‑site training session for all kitchen & delivery staff; 30 % refresher quiz at the end.  <br>3. **Audit cadence** – monthly internal audit (random 2 batches) + quarterly external audit.  <br>4. **Batch ID system** – assign QR‑coded labels on each pre‑packaged curry with a digital link to allergen & temperature history. | Head of QA & Kitchen Supervisors | 3‑week rollout; 1‑month for full adoption | • 100 % FSA compliance in first audit <br>• Zero temperature‑log violations |
+
+---
+
+#### Why These Three Work
+
+1. **Financial cost spike** – By cutting dependence on a single international supplier and locking in prices, you transform a one‑off spike into a managed, predictable expense.  
+2. **Customer demand shift** – Bundling and pre‑orders convert a 30 % demand increase into higher margins and better kitchen utilisation, while also creating a repeat‑order habit.  
+3. **Regulatory & safety warning** – A digital, auditable system eliminates manual log errors, satisfies FSA requirements, and gives you an instant audit trail—saving potential fines and protecting brand reputation.
+
+---
+
+### Next Steps Checklist (Immediate)
+
+| Item | Who | Deadline |
+|------|-----|----------|
+| Identify & contact local tomato & chilli suppliers | COO | 5 days |
+| Draft volume‑discount contracts | Procurement | 10 days |
+| Select & configure digital compliance platform | Head of QA | 14 days |
+| Design “Weekend Family Feast” pack and pricing | Marketing | 10 days |
+| Schedule pre‑order system integration | IT (or external vendor) | 12 days |
+| Train kitchen & delivery staff on new SOPs | Head of QA | 15 days |
+| Launch promo with local influencers | Marketing | 21 days |
+
+Once implemented, track the KPIs above weekly to iterate quickly and keep the business both profitable and compliant."
+2,"Weekend demand for family catering trays, idli/dosa batter packs, and samosa platters increased by 30% across Greater Manchester.",Customer Demand Shift,"### 3 Concrete, Operational Actions for Masala Boulevard
+
+| # | Priority | Recommendation | What to Do (Steps) | Owner / Team | Timeline | KPI |
+|---|----------|----------------|--------------------|--------------|----------|-----|
+| 1 | **Cost‑control & Supply‑chain resilience** | **Diversify & hedge the chilli, tamarind & tomato supply** | 1. **Source locally** – identify Greater Manchester growers or UK‑based suppliers (e.g., *Kew Agro* for tomatoes, *AgriGrow* for chilies).  <br>2. **Negotiate volume discounts** – lock in 6‑month contracts with a 2‑3% discount for bulk orders.  <br>3. **Implement a “just‑in‑time” inventory plan** – track usage data (weekly) and reorder when stock falls below the 2‑week safety buffer.  <br>4. **Hedge price volatility** – use a simple forward‑contract or a monthly “price‑cap” with the primary supplier (e.g., £0.35/kg cap on Guntur chillies). | COO & Procurement Manager | 1‑2 weeks to secure new contracts; 1‑month for pricing lock‑in | • 5–10 % drop in per‑unit cost over 12 months <br>• 20 % reduction in price variance |
+| 2 | **Revenue maximisation from demand spike** | **Launch a “Weekend Family Feast” bundle & pre‑order system** | 1. **Product mix** – bundle 3 trays (idli/dosa batter, samosa platters, and a signature curry) into a 4‑person family pack.  <br>2. **Pricing** – 10 % discount vs. ordering items separately to drive volume.  <br>3. **Pre‑order window** – 72 hrs before Saturday/Sunday (via WhatsApp Business, Instagram DM or website).  <br>4. **Dedicated prep team** – assign 2 cooks to weekend packs only, start prep at 5 pm Friday to minimise spoilage.  <br>5. **Promote via local influencers** – partner with 3 Manchester‑based foodie Instagrammers for a 2‑week story series. | Marketing Lead & Kitchen Manager | 2‑4 weeks to launch; ongoing monitoring | • 30 % rise in weekend revenue <br>• 15 % increase in average order size |
+| 3 | **Compliance & safety** | **Digital temperature logs + allergen‑labelling workflow** | 1. **Choose a compliant platform** – e.g., *iFoodSafe* or *SafeFoodPro* that records hot‑holding temperatures and auto‑generates batch‑level allergen statements.  <br>2. **Staff training** – 1‑hour on‑site training session for all kitchen & delivery staff; 30 % refresher quiz at the end.  <br>3. **Audit cadence** – monthly internal audit (random 2 batches) + quarterly external audit.  <br>4. **Batch ID system** – assign QR‑coded labels on each pre‑packaged curry with a digital link to allergen & temperature history. | Head of QA & Kitchen Supervisors | 3‑week rollout; 1‑month for full adoption | • 100 % FSA compliance in first audit <br>• Zero temperature‑log violations |
+
+---
+
+#### Why These Three Work
+
+1. **Financial cost spike** – By cutting dependence on a single international supplier and locking in prices, you transform a one‑off spike into a managed, predictable expense.  
+2. **Customer demand shift** – Bundling and pre‑orders convert a 30 % demand increase into higher margins and better kitchen utilisation, while also creating a repeat‑order habit.  
+3. **Regulatory & safety warning** – A digital, auditable system eliminates manual log errors, satisfies FSA requirements, and gives you an instant audit trail—saving potential fines and protecting brand reputation.
+
+---
+
+### Next Steps Checklist (Immediate)
+
+| Item | Who | Deadline |
+|------|-----|----------|
+| Identify & contact local tomato & chilli suppliers | COO | 5 days |
+| Draft volume‑discount contracts | Procurement | 10 days |
+| Select & configure digital compliance platform | Head of QA | 14 days |
+| Design “Weekend Family Feast” pack and pricing | Marketing | 10 days |
+| Schedule pre‑order system integration | IT (or external vendor) | 12 days |
+| Train kitchen & delivery staff on new SOPs | Head of QA | 15 days |
+| Launch promo with local influencers | Marketing | 21 days |
+
+Once implemented, track the KPIs above weekly to iterate quickly and keep the business both profitable and compliant."
+3,UK Food Standards Agency update: Enhanced hot-holding temperature logs and batch allergen labelling required for pre-packaged takeaway curries.,Regulatory & Safety Warning,"### 3 Concrete, Operational Actions for Masala Boulevard
+
+| # | Priority | Recommendation | What to Do (Steps) | Owner / Team | Timeline | KPI |
+|---|----------|----------------|--------------------|--------------|----------|-----|
+| 1 | **Cost‑control & Supply‑chain resilience** | **Diversify & hedge the chilli, tamarind & tomato supply** | 1. **Source locally** – identify Greater Manchester growers or UK‑based suppliers (e.g., *Kew Agro* for tomatoes, *AgriGrow* for chilies).  <br>2. **Negotiate volume discounts** – lock in 6‑month contracts with a 2‑3% discount for bulk orders.  <br>3. **Implement a “just‑in‑time” inventory plan** – track usage data (weekly) and reorder when stock falls below the 2‑week safety buffer.  <br>4. **Hedge price volatility** – use a simple forward‑contract or a monthly “price‑cap” with the primary supplier (e.g., £0.35/kg cap on Guntur chillies). | COO & Procurement Manager | 1‑2 weeks to secure new contracts; 1‑month for pricing lock‑in | • 5–10 % drop in per‑unit cost over 12 months <br>• 20 % reduction in price variance |
+| 2 | **Revenue maximisation from demand spike** | **Launch a “Weekend Family Feast” bundle & pre‑order system** | 1. **Product mix** – bundle 3 trays (idli/dosa batter, samosa platters, and a signature curry) into a 4‑person family pack.  <br>2. **Pricing** – 10 % discount vs. ordering items separately to drive volume.  <br>3. **Pre‑order window** – 72 hrs before Saturday/Sunday (via WhatsApp Business, Instagram DM or website).  <br>4. **Dedicated prep team** – assign 2 cooks to weekend packs only, start prep at 5 pm Friday to minimise spoilage.  <br>5. **Promote via local influencers** – partner with 3 Manchester‑based foodie Instagrammers for a 2‑week story series. | Marketing Lead & Kitchen Manager | 2‑4 weeks to launch; ongoing monitoring | • 30 % rise in weekend revenue <br>• 15 % increase in average order size |
+| 3 | **Compliance & safety** | **Digital temperature logs + allergen‑labelling workflow** | 1. **Choose a compliant platform** – e.g., *iFoodSafe* or *SafeFoodPro* that records hot‑holding temperatures and auto‑generates batch‑level allergen statements.  <br>2. **Staff training** – 1‑hour on‑site training session for all kitchen & delivery staff; 30 % refresher quiz at the end.  <br>3. **Audit cadence** – monthly internal audit (random 2 batches) + quarterly external audit.  <br>4. **Batch ID system** – assign QR‑coded labels on each pre‑packaged curry with a digital link to allergen & temperature history. | Head of QA & Kitchen Supervisors | 3‑week rollout; 1‑month for full adoption | • 100 % FSA compliance in first audit <br>• Zero temperature‑log violations |
+
+---
+
+#### Why These Three Work
+
+1. **Financial cost spike** – By cutting dependence on a single international supplier and locking in prices, you transform a one‑off spike into a managed, predictable expense.  
+2. **Customer demand shift** – Bundling and pre‑orders convert a 30 % demand increase into higher margins and better kitchen utilisation, while also creating a repeat‑order habit.  
+3. **Regulatory & safety warning** – A digital, auditable system eliminates manual log errors, satisfies FSA requirements, and gives you an instant audit trail—saving potential fines and protecting brand reputation.
+
+---
+
+### Next Steps Checklist (Immediate)
+
+| Item | Who | Deadline |
+|------|-----|----------|
+| Identify & contact local tomato & chilli suppliers | COO | 5 days |
+| Draft volume‑discount contracts | Procurement | 10 days |
+| Select & configure digital compliance platform | Head of QA | 14 days |
+| Design “Weekend Family Feast” pack and pricing | Marketing | 10 days |
+| Schedule pre‑order system integration | IT (or external vendor) | 12 days |
+| Train kitchen & delivery staff on new SOPs | Head of QA | 15 days |
+| Launch promo with local influencers | Marketing | 21 days |
+
+Once implemented, track the KPIs above weekly to iterate quickly and keep the business both profitable and compliant."
